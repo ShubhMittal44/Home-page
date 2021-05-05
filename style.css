@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins&display=swap');
+body
+{
+    background-color: #F0F0F0;
+    font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+.h11
+{
+    color: violet;
+    padding: 2%;
+}
+.p1
+{
+    color: violet;
+   
+}
+.h22
+{
+    color: violet;
+    padding: 2%;
+}
+.p2
+{
+    color: violet;
+    padding: 2%;
+   
+}
+.h33
+{
+    color: violet;
+    padding: 2%;
+}
+.p3
+{
+    color: violet;
+    padding: 2%;
+   
+}
+.h44
+{
+    color: violet;
+    padding: 2%;
+}
+.p4
+{
+    color: violet;
+    padding: 2%;
+   
+}
+.one11
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
